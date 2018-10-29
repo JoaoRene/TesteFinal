@@ -1,4 +1,4 @@
-	<title>Pagina para download da versão</title>
+<title>Pagina para download da versão</title>
 </head>
 <body>
 	<h1>Selecione a mina desejada</h1>
